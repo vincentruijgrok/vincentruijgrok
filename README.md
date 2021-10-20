@@ -1,0 +1,1 @@
+Hi! I am Vincent Ruijgrok, a young, enthusiastic developer and problem-solver from the Netherlands. Currently, I am not neccesarily a 'senior' developer or exeprienced computer scientist. I like solving problems no one has solved before and enjoy working on projects that are educationally focused. Cheers!
